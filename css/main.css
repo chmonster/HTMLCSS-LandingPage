@@ -32,7 +32,7 @@ section {
   justify-content: center;
 }
 .space-between {
-  justify-content: center;
+  justify-content: space-between;
 }
 .btn{
   cursor: auto;
@@ -56,13 +56,12 @@ section {
   color: #8598a2;
   line-height: 1.4;
 }
-.text-light, .text-secondary {
-  font-size: 30px;
-}
 .text-light {
+  font-size: 30px;
   color: #a0a0a0;
 }
 .text-secondary {
+  font-size: 30px;
   color: #faa541
 }
 .text-primary {
